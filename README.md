@@ -1,2 +1,2 @@
-# Fellowship-challenges
-Fellowship Challenges - Debug problem
+# AI Projects and Course Works 
+
